@@ -1,0 +1,4 @@
+
+app:
+  remote:
+    alipay: https://localhost:8080/preprod
